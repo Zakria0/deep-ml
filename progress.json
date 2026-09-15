@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:43:25.951Z",
+  "generated_at": "2026-09-15T11:21:08.147Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -11,6 +11,19 @@
       "path": "math/0043-model-selection-cv-aic-and-bic",
       "first_solved_at": "2026-09-15T10:43:16.534Z",
       "last_pushed_at": "2026-09-15T10:43:16.534Z"
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2026-09-15T11:21:07.596Z",
+      "last_pushed_at": "2026-09-15T11:21:07.596Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
