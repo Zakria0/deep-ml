@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:07:15.748Z",
+  "generated_at": "2026-09-17T14:19:02.420Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -219,6 +219,19 @@
       "last_pushed_at": "2026-09-17T14:07:14.698Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:337": {
+      "kind": "problem",
+      "id": "337",
+      "title": "Maximum Likelihood Estimation for Gaussian Distribution",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/337",
+      "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
+      "first_solved_at": "2026-09-17T14:19:01.571Z",
+      "last_pushed_at": "2026-09-17T14:19:01.571Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
