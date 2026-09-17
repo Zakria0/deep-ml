@@ -18,7 +18,7 @@ def pca(data: np.ndarray, k: int) -> np.ndarray:
     cov_mat = np.cov(X, rowvar=False)
     eigenvalues, eigenvectors = np.linalg.eigh(cov_mat, UPLO='L')
     idx = np.argsort(eigenvalues)[::-1]
-    for j in range(eigenvectors.shape[1]): 
+    for j in range(eigenvectors.shape[1]):
         col = eigenvectors[:, j] 
         for elem in col:
             if np.abs(elem) > 1e-10:
