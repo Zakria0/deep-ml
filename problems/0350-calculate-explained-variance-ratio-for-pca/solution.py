@@ -10,7 +10,7 @@ def explained_variance_ratio(X):
     Returns:
         List of explained variance ratios sorted in descending order
     """
-    n = len(X[0])
+    n = len(X)
     mean = np.mean(X, axis=0)
 
     X = X - mean
