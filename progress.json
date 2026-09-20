@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:27:03.780Z",
+  "generated_at": "2026-09-20T13:27:11.879Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -644,6 +644,19 @@
       "last_pushed_at": "2026-09-20T13:27:03.225Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-09-20T13:27:11.191Z",
+      "last_pushed_at": "2026-09-20T13:27:11.191Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
