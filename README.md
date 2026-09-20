@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 50 problems · 2 labs · 3 math
+**56** solved · 51 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-16 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-19 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-20 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-15 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-20 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-20 | [solution](problems/0009-matrix-times-matrix) |
