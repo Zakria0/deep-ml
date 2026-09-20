@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:56:47.435Z",
+  "generated_at": "2026-09-20T00:42:29.960Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -397,6 +397,19 @@
       "path": "math/0044-class-imbalance-and-proper-scoring",
       "first_solved_at": "2026-09-19T14:56:45.872Z",
       "last_pushed_at": "2026-09-19T14:56:45.872Z"
+    },
+    "problem:105": {
+      "kind": "problem",
+      "id": "105",
+      "title": "Train Softmax Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/105",
+      "path": "problems/0105-train-softmax-regression-with-gradient-descent",
+      "first_solved_at": "2026-09-20T00:42:29.353Z",
+      "last_pushed_at": "2026-09-20T00:42:29.353Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
