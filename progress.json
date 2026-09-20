@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:33:04.786Z",
+  "generated_at": "2026-09-20T13:33:16.201Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -229,7 +229,7 @@
       "url": "https://www.deep-ml.com/problems/337",
       "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
       "first_solved_at": "2026-09-17T14:19:01.571Z",
-      "last_pushed_at": "2026-09-17T14:19:01.571Z",
+      "last_pushed_at": "2026-09-20T13:33:15.626Z",
       "language": "python",
       "lines": 18
     },
