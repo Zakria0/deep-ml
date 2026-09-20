@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 63 problems · 2 labs · 3 math
+**69** solved · 64 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-20 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-18 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-20 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-20 | [solution](problems/0201-qr-decomposition) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-09-20 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
 ## Labs
