@@ -11,25 +11,11 @@ def is_linearly_independent(vectors: list[list[float]]) -> bool:
     Returns:
         True if vectors are linearly independent, False otherwise.
     """
-    # Your code here
-    import numpy as np
-
-def is_linearly_independent(vectors: list[list[float]]) -> bool:
-    """
-    Check if a set of vectors is linearly independent.
-    
-    Args:
-        vectors: List of vectors, where each vector is a list of floats.
-                 All vectors must have the same dimension.
-        
-    Returns:
-        True if vectors are linearly independent, False otherwise.
-    """
     if not vectors:
-        return True  # empty set is independent by convention
+        return True
     
     M = np.array(vectors, dtype=float)
-    m, n = M.shape  # m vectors of dimension n
+    m, n = M.shape
     tol = 1e-10
     rank = 0
     row = 0
@@ -47,5 +33,4 @@ def is_linearly_independent(vectors: list[list[float]]) -> bool:
         rank += 1
         row += 1
     
-    # Independent iff every vector contributes a pivot
     return rank == m
