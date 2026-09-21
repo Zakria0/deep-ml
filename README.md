@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**73** solved · 68 problems · 2 labs · 3 math
+**74** solved · 69 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-19 | [solution](problems/0288-implement-grid-search) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-16 | [solution](problems/0173-implement-k-nearest-neighbors) |
+| [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-21 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-19 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-20 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-15 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
