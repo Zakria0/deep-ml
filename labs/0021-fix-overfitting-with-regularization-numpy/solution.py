@@ -61,7 +61,7 @@ def train(X_train, y_train, X_val, y_val):
     best_val = np.inf
     best = (weight.copy(), b)
     counter = 0
-
+    """
     for _ in range(20000):
         pred = X_train_pc @ weight + b
         e = pred - y_train
@@ -92,6 +92,9 @@ def train(X_train, y_train, X_val, y_val):
 
     """
     ybar = y_train.mean()
-    w = np.linalg.solve(Z.T @ Z + alpha * np.eye(k), Z.T @ (y_train - ybar))
+    w = np.linalg.solve(X_train_pc.T @ X_train_pc + alpha * np.eye(k), X_train_pc.T @ (y_train - ybar))
     b = ybar
-    """
+
+    def predict(X):
+        return ((X - mean) @ pc) @ w + b
+    return predict
