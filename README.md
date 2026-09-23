@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 75 problems · 3 labs · 3 math
+**82** solved · 75 problems · 4 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-09-16 | [solution](labs/0009-design-your-own-activation-function) |
+| [Fix Overfitting with Regularization (Sklearn)](https://www.deep-ml.com/labs/22) | easy | 2026-09-23 | [solution](labs/0022-fix-overfitting-with-regularization-sklearn) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-09-15 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 
