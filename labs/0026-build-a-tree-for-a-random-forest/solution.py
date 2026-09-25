@@ -82,6 +82,15 @@ class DecisionTree:
             if gain > best_gain:
                 best_gain, best = gain, (j, float(t))
         return best
+    
+    def _best_split_fully_random(self, X, y):
+        j = self.rng.randint(X.shape[1])
+        col = X[:, j]
+        lo, hi = col.min(), col.max()
+        if lo == hi:
+            return None
+        t = lo + self.rng.random_sample() * (hi - lo)
+        return (j, float(t)) 
 
     def _build(self, X, y, depth=0):
         if (len(np.unique(y)) == 1 
@@ -89,8 +98,12 @@ class DecisionTree:
         or (self.max_depth is not None and depth >= self.max_depth)):
             return {'leaf': True, 'prediction': self._leaf_prediction(y)}
 
-        feats = self.rng.choice(X.shape[1], size=self.m_, replace=False)
-        best = (self._best_split_random(X, y, feats) if self.splitter == 'random' else self._best_split(X, y, feats))
+        if self.splitter == 'fully_random':
+            best = self._best_split_fully_random(X, y)
+        else:
+            feats = self.rng.choice(X.shape[1], size=self.m_, replace=False)
+            best = (self._best_split_random(X, y, feats) if self.splitter == 'random'
+                    else self._best_split(X, y, feats))
 
         if best is None:
             return {'leaf': True, 'prediction': self._leaf_prediction(y)}
