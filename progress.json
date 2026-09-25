@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:07:17.668Z",
+  "generated_at": "2026-09-25T14:14:01.647Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1135,7 +1135,7 @@
       "url": "https://www.deep-ml.com/labs/26",
       "path": "labs/0026-build-a-tree-for-a-random-forest",
       "first_solved_at": "2026-09-23T23:42:22.086Z",
-      "last_pushed_at": "2026-09-25T14:07:17.003Z",
+      "last_pushed_at": "2026-09-25T14:14:00.940Z",
       "language": "python",
       "lines": 141
     },
