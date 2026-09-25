@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:15:51.932Z",
+  "generated_at": "2026-09-25T12:21:54.002Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1223,6 +1223,17 @@
       "path": "math/0028-bayesian-methods",
       "first_solved_at": "2026-09-25T12:15:51.209Z",
       "last_pushed_at": "2026-09-25T12:15:51.209Z"
+    },
+    "math:29": {
+      "kind": "math",
+      "id": "29",
+      "title": "Probabilistic Models",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/29",
+      "path": "math/0029-probabilistic-models",
+      "first_solved_at": "2026-09-25T12:21:53.025Z",
+      "last_pushed_at": "2026-09-25T12:21:53.025Z"
     }
   }
 }
