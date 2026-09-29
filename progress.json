@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T23:20:53.905Z",
+  "generated_at": "2026-09-29T23:38:08.270Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1271,6 +1271,17 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-09-29T23:20:43.162Z",
       "last_pushed_at": "2026-09-29T23:20:43.162Z"
+    },
+    "math:118": {
+      "kind": "math",
+      "id": "118",
+      "title": "Interpolation and Double Descent",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/118",
+      "path": "math/0118-interpolation-and-double-descent",
+      "first_solved_at": "2026-09-29T23:37:55.588Z",
+      "last_pushed_at": "2026-09-29T23:37:55.588Z"
     }
   }
 }
