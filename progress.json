@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:08:02.481Z",
+  "generated_at": "2026-09-29T23:20:53.905Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1260,6 +1260,17 @@
       "last_pushed_at": "2026-09-25T13:26:00.759Z",
       "language": "python",
       "lines": 39
+    },
+    "math:104": {
+      "kind": "math",
+      "id": "104",
+      "title": "Training Error, Test Error and the Bayes Rate",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/104",
+      "path": "math/0104-training-error-test-error-and-the-bayes-rate",
+      "first_solved_at": "2026-09-29T23:20:43.162Z",
+      "last_pushed_at": "2026-09-29T23:20:43.162Z"
     }
   }
 }
