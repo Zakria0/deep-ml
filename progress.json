@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T23:38:08.270Z",
+  "generated_at": "2026-10-01T13:12:41.935Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1282,6 +1282,19 @@
       "path": "math/0118-interpolation-and-double-descent",
       "first_solved_at": "2026-09-29T23:37:55.588Z",
       "last_pushed_at": "2026-09-29T23:37:55.588Z"
+    },
+    "problem:275": {
+      "kind": "problem",
+      "id": "275",
+      "title": "Implement Stratified Train-Test Split",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/275",
+      "path": "problems/0275-implement-stratified-train-test-split",
+      "first_solved_at": "2026-10-01T13:12:41.165Z",
+      "last_pushed_at": "2026-10-01T13:12:41.165Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
