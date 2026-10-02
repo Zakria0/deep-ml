@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**102** solved · 87 problems · 5 labs · 10 math
+**103** solved · 87 problems · 5 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -123,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-09-29 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-25 | [solution](math/0028-bayesian-methods) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-29 | [solution](math/0118-interpolation-and-double-descent) |
+| [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-10-02 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-25 | [solution](math/0029-probabilistic-models) |
 
 ---

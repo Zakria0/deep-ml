@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:31:39.144Z",
+  "generated_at": "2026-10-02T21:39:02.892Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1306,6 +1306,17 @@
       "path": "math/0080-loocv-vs-k-fold-the-bias-variance-of-k",
       "first_solved_at": "2026-10-02T13:31:38.471Z",
       "last_pushed_at": "2026-10-02T13:31:38.471Z"
+    },
+    "math:122": {
+      "kind": "math",
+      "id": "122",
+      "title": "Matrix Completion and Missing Values",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/122",
+      "path": "math/0122-matrix-completion-and-missing-values",
+      "first_solved_at": "2026-10-02T21:38:51.940Z",
+      "last_pushed_at": "2026-10-02T21:38:51.940Z"
     }
   }
 }
