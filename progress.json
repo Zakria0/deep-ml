@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:35:08.777Z",
+  "generated_at": "2026-10-04T17:47:37.638Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1456,6 +1456,19 @@
       "path": "math/0076-rse-r-2-and-the-f-statistic-for-overall-significance",
       "first_solved_at": "2026-10-04T17:34:57.613Z",
       "last_pushed_at": "2026-10-04T17:34:57.613Z"
+    },
+    "problem:1361": {
+      "kind": "problem",
+      "id": "1361",
+      "title": "RSE, R-Squared and the F-Statistic",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1361",
+      "path": "problems/1361-rse-r-squared-and-the-f-statistic",
+      "first_solved_at": "2026-10-04T17:47:36.935Z",
+      "last_pushed_at": "2026-10-04T17:47:36.935Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
