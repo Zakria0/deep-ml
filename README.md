@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**106** solved · 90 problems · 5 labs · 11 math
+**107** solved · 91 problems · 5 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-16 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-20 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-09-17 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-04 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-21 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-09-24 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-19 | [solution](problems/0288-implement-grid-search) |
