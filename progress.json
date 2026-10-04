@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:22:40.520Z",
+  "generated_at": "2026-10-04T17:35:08.777Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1445,6 +1445,17 @@
       "last_pushed_at": "2026-10-04T17:22:29.868Z",
       "language": "python",
       "lines": 32
+    },
+    "math:76": {
+      "kind": "math",
+      "id": "76",
+      "title": "RSE, $R^2$, and the F-Statistic for Overall Significance",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/76",
+      "path": "math/0076-rse-r-2-and-the-f-statistic-for-overall-significance",
+      "first_solved_at": "2026-10-04T17:34:57.613Z",
+      "last_pushed_at": "2026-10-04T17:34:57.613Z"
     }
   }
 }

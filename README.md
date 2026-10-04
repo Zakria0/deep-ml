@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**113** solved · 94 problems · 7 labs · 12 math
+**114** solved · 94 problems · 7 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -128,6 +128,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Coefficient Standard Errors, t-Statistics, and p-Values](https://www.deep-ml.com/math-problems/75) | medium | 2026-10-04 | [solution](math/0075-coefficient-standard-errors-t-statistics-and-p-values) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-10-02 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-19 | [solution](math/0042-margins-and-soft-margin-svms) |
+| [RSE, $R^2$, and the F-Statistic for Overall Significance](https://www.deep-ml.com/math-problems/76) | medium | 2026-10-04 | [solution](math/0076-rse-r-2-and-the-f-statistic-for-overall-significance) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-25 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-25 | [solution](math/0041-the-em-algorithm) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-09-29 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
