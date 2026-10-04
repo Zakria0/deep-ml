@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T19:53:21.731Z",
+  "generated_at": "2026-10-04T20:38:19.408Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1480,6 +1480,19 @@
       "path": "math/0077-confidence-intervals-vs-prediction-intervals",
       "first_solved_at": "2026-10-04T19:53:10.751Z",
       "last_pushed_at": "2026-10-04T19:53:10.751Z"
+    },
+    "problem:1362": {
+      "kind": "problem",
+      "id": "1362",
+      "title": "Confidence Intervals versus Prediction Intervals",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1362",
+      "path": "problems/1362-confidence-intervals-versus-prediction-intervals",
+      "first_solved_at": "2026-10-04T20:38:08.596Z",
+      "last_pushed_at": "2026-10-04T20:38:08.596Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
