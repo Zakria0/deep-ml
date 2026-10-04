@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:38:19.408Z",
+  "generated_at": "2026-10-04T21:48:38.836Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1493,6 +1493,19 @@
       "last_pushed_at": "2026-10-04T20:38:08.596Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:542": {
+      "kind": "problem",
+      "id": "542",
+      "title": "Build a Multi-Armed Bandit Testbed",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/542",
+      "path": "problems/0542-build-a-multi-armed-bandit-testbed",
+      "first_solved_at": "2026-10-04T21:48:27.818Z",
+      "last_pushed_at": "2026-10-04T21:48:27.818Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
