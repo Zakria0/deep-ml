@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:39:02.892Z",
+  "generated_at": "2026-10-04T11:41:12.063Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1317,6 +1317,19 @@
       "path": "math/0122-matrix-completion-and-missing-values",
       "first_solved_at": "2026-10-02T21:38:51.940Z",
       "last_pushed_at": "2026-10-02T21:38:51.940Z"
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-10-04T11:41:10.657Z",
+      "last_pushed_at": "2026-10-04T11:41:10.657Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
