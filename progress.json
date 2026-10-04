@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:13:06.717Z",
+  "generated_at": "2026-10-04T17:22:40.520Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1432,6 +1432,19 @@
       "path": "math/0075-coefficient-standard-errors-t-statistics-and-p-values",
       "first_solved_at": "2026-10-04T16:12:56.015Z",
       "last_pushed_at": "2026-10-04T16:12:56.015Z"
+    },
+    "problem:1360": {
+      "kind": "problem",
+      "id": "1360",
+      "title": "Coefficient Standard Errors, t-Statistics and p-Values",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1360",
+      "path": "problems/1360-coefficient-standard-errors-t-statistics-and-p-values",
+      "first_solved_at": "2026-10-04T17:22:29.868Z",
+      "last_pushed_at": "2026-10-04T17:22:29.868Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
