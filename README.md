@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**107** solved · 91 problems · 5 labs · 11 math
+**108** solved · 91 problems · 6 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -111,6 +111,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-09-16 | [solution](labs/0009-design-your-own-activation-function) |
 | [Fix Overfitting with Regularization (Sklearn)](https://www.deep-ml.com/labs/22) | easy | 2026-09-23 | [solution](labs/0022-fix-overfitting-with-regularization-sklearn) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-09-15 | [solution](labs/0018-train-a-linear-regression-model) |
+| [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-10-04 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-09-23 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
 
