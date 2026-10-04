@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 93 problems · 6 labs · 11 math
+**111** solved · 93 problems · 7 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-09-15 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-10-04 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
+| [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-10-04 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-09-23 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
 
 ## Math
