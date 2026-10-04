@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**111** solved · 93 problems · 7 labs · 11 math
+**112** solved · 93 problems · 7 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -124,6 +124,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-19 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-15 | [solution](math/0043-model-selection-cv-aic-and-bic) |
+| [Coefficient Standard Errors, t-Statistics, and p-Values](https://www.deep-ml.com/math-problems/75) | medium | 2026-10-04 | [solution](math/0075-coefficient-standard-errors-t-statistics-and-p-values) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-10-02 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-19 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-25 | [solution](math/0027-statistical-inference) |
