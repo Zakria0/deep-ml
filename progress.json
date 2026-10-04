@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:32:31.806Z",
+  "generated_at": "2026-10-04T12:45:11.631Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1070,9 +1070,9 @@
       "url": "https://www.deep-ml.com/problems/1225",
       "path": "problems/1225-two-layer-mlp-forward-pass",
       "first_solved_at": "2026-09-23T14:19:22.958Z",
-      "last_pushed_at": "2026-09-23T14:19:22.958Z",
+      "last_pushed_at": "2026-10-04T12:45:10.982Z",
       "language": "python",
-      "lines": 50
+      "lines": 32
     },
     "problem:1226": {
       "kind": "problem",

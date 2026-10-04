@@ -15,35 +15,17 @@ def two_layer_mlp_forward(x, w1, b1, w2, b2):
     Returns:
         float: Scalar network output.
     """
-    layer1 = nn.Linear(2, 2)
-    layer2 = nn.Linear(2, 1)
-    
     model = nn.Sequential(
         nn.Linear(2, 2),
         nn.ReLU(),
-        layer2
+        nn.Linear(2, 1)
     )
 
     with torch.no_grad():
-        layer1.weight.copy_(w1)
-        layer1.bias.copy_(b1)
-        layer2.weight.copy_(w2)
-        layer2.bias.copy_(b2)
+        model[0].weight.copy_(w1)
+        model[0].bias.copy_(b1)
+        model[2].weight.copy_(w2)
+        model[2].bias.copy_(b2)
     
-    out = model(x)
-    return float(out.item())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    return model(x).item()
 
