@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**129** solved · 106 problems · 8 labs · 15 math
+**130** solved · 106 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-09-16 | [solution](labs/0009-design-your-own-activation-function) |
 | [Fix Overfitting with Regularization (Sklearn)](https://www.deep-ml.com/labs/22) | easy | 2026-09-23 | [solution](labs/0022-fix-overfitting-with-regularization-sklearn) |
+| [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-10-05 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-09-15 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-10-04 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
