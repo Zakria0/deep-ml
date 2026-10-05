@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 99 problems · 7 labs · 15 math
+**122** solved · 100 problems · 7 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-09-21 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-10-05 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
 | [Build a Multi-Armed Bandit Testbed](https://www.deep-ml.com/problems/542) | easy | 2026-10-04 | [solution](problems/0542-build-a-multi-armed-bandit-testbed) |
+| [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-10-05 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-09-20 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-09-20 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-09-20 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
