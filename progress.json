@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:45:07.734Z",
+  "generated_at": "2026-10-05T11:06:24.287Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1519,6 +1519,17 @@
       "last_pushed_at": "2026-10-05T07:44:56.890Z",
       "language": "python",
       "lines": 9
+    },
+    "math:51": {
+      "kind": "math",
+      "id": "51",
+      "title": "Bradley-Terry Preference Model",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/51",
+      "path": "math/0051-bradley-terry-preference-model",
+      "first_solved_at": "2026-10-05T11:06:13.554Z",
+      "last_pushed_at": "2026-10-05T11:06:13.554Z"
     }
   }
 }
