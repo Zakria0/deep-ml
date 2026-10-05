@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**127** solved · 105 problems · 7 labs · 15 math
+**128** solved · 106 problems · 7 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-21 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-16 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-09-20 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
+| [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-10-05 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-21 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-04 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-09-20 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
