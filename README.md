@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**139** solved · 115 problems · 9 labs · 15 math
+**140** solved · 116 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-23 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-24 | [solution](problems/0146-momentum-optimizer) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-09-24 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
+| [Optimistic Initialization for Exploration](https://www.deep-ml.com/problems/509) | easy | 2026-10-08 | [solution](problems/0509-optimistic-initialization-for-exploration) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-21 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-10-04 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-05 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
