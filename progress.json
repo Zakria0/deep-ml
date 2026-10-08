@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:52:30.611Z",
+  "generated_at": "2026-10-08T17:30:32.900Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1803,6 +1803,19 @@
       "last_pushed_at": "2026-10-08T16:52:29.543Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:163": {
+      "kind": "problem",
+      "id": "163",
+      "title": "Gradient Bandit Action Selection",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/163",
+      "path": "problems/0163-gradient-bandit-action-selection",
+      "first_solved_at": "2026-10-08T17:30:31.494Z",
+      "last_pushed_at": "2026-10-08T17:30:31.494Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
