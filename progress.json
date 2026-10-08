@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:30:32.900Z",
+  "generated_at": "2026-10-08T17:40:02.579Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1816,6 +1816,19 @@
       "last_pushed_at": "2026-10-08T17:30:31.494Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:641": {
+      "kind": "problem",
+      "id": "641",
+      "title": "Gibbs Softmax Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/641",
+      "path": "problems/0641-gibbs-softmax-action-selection",
+      "first_solved_at": "2026-10-08T17:40:00.936Z",
+      "last_pushed_at": "2026-10-08T17:40:00.936Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

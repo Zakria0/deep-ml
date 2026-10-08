@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**142** solved · 118 problems · 9 labs · 15 math
+**143** solved · 119 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-10-08 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-20 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-10-08 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
+| [Gibbs Softmax Action Selection](https://www.deep-ml.com/problems/641) | easy | 2026-10-08 | [solution](problems/0641-gibbs-softmax-action-selection) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-20 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-10-04 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-09-21 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
