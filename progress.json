@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:15:41.042Z",
+  "generated_at": "2026-10-08T13:09:52.741Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1751,6 +1751,19 @@
       "last_pushed_at": "2026-10-08T11:15:39.822Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:159": {
+      "kind": "problem",
+      "id": "159",
+      "title": "Incremental Mean for Online Reward Estimation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/159",
+      "path": "problems/0159-incremental-mean-for-online-reward-estimation",
+      "first_solved_at": "2026-10-08T13:09:52.113Z",
+      "last_pushed_at": "2026-10-08T13:09:52.113Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
