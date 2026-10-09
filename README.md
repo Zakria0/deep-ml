@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**143** solved · 119 problems · 9 labs · 15 math
+**144** solved · 120 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -111,6 +111,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-06 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-20 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-15 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [Markov Decision Process Simulator](https://www.deep-ml.com/problems/510) | medium | 2026-10-09 | [solution](problems/0510-markov-decision-process-simulator) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-20 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-20 | [solution](problems/0009-matrix-times-matrix) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-09-17 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
