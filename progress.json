@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:47:58.310Z",
+  "generated_at": "2026-10-09T23:07:42.394Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1842,6 +1842,19 @@
       "last_pushed_at": "2026-10-09T22:47:56.738Z",
       "language": "python",
       "lines": 64
+    },
+    "problem:166": {
+      "kind": "problem",
+      "id": "166",
+      "title": "Evaluate Expected Value in a Markov Decision Process",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/166",
+      "path": "problems/0166-evaluate-expected-value-in-a-markov-decision-process",
+      "first_solved_at": "2026-10-09T23:07:40.959Z",
+      "last_pushed_at": "2026-10-09T23:07:40.959Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
