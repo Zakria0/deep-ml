@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**145** solved · 121 problems · 9 labs · 15 math
+**146** solved · 122 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-09-19 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-20 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-21 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
+| [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-10-09 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-16 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-09-20 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-10-05 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
