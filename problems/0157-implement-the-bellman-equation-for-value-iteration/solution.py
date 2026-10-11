@@ -22,8 +22,7 @@ def bellman_update(V, transitions, gamma):
         for nuple in s[a]:
           q += nuple[0] * (nuple[2] + gamma * (1 - nuple[3]) * V[nuple[1]])
 
-        if v_max < q:
-          v_max = q
+        v_max = max(q, v_max)
       new_V[i] = v_max
 
     return new_V

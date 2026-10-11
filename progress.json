@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T23:41:17.011Z",
+  "generated_at": "2026-10-11T23:42:41.839Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1995,9 +1995,9 @@
       "url": "https://www.deep-ml.com/problems/157",
       "path": "problems/0157-implement-the-bellman-equation-for-value-iteration",
       "first_solved_at": "2026-10-11T23:41:16.071Z",
-      "last_pushed_at": "2026-10-11T23:41:16.071Z",
+      "last_pushed_at": "2026-10-11T23:42:41.000Z",
       "language": "python",
-      "lines": 32
+      "lines": 31
     }
   }
 }
