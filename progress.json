@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:52:24.681Z",
+  "generated_at": "2026-10-11T22:53:29.448Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1969,9 +1969,9 @@
       "url": "https://www.deep-ml.com/problems/468",
       "path": "problems/0468-asynchronous-dynamic-programming-for-value-iteration",
       "first_solved_at": "2026-10-11T22:52:13.498Z",
-      "last_pushed_at": "2026-10-11T22:52:24.154Z",
+      "last_pushed_at": "2026-10-11T22:53:26.289Z",
       "language": "python",
-      "lines": 34
+      "lines": 36
     }
   }
 }
