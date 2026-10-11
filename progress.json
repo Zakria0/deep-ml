@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:59:50.437Z",
+  "generated_at": "2026-10-11T22:52:14.223Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1959,6 +1959,19 @@
       "last_pushed_at": "2026-10-11T21:59:49.886Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:468": {
+      "kind": "problem",
+      "id": "468",
+      "title": "Asynchronous Dynamic Programming for Value Iteration",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/468",
+      "path": "problems/0468-asynchronous-dynamic-programming-for-value-iteration",
+      "first_solved_at": "2026-10-11T22:52:13.498Z",
+      "last_pushed_at": "2026-10-11T22:52:13.498Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
