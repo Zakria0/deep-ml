@@ -15,7 +15,7 @@ def async_value_iteration(num_states: int, transitions: list, gamma: float, upda
     """
     V = [0.0] * num_states
     for s in update_order:
-        v_max = 0
+        v_max = -np.inf
         for a in range(len(transitions[s])):
             q = 0
             for triple in transitions[s][a]:
