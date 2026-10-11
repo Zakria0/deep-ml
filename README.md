@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 131 problems · 9 labs · 15 math
+**156** solved · 132 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -119,6 +119,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-21 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-19 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-01 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-10-11 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-06 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-20 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-15 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
