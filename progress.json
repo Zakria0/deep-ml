@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:55:40.654Z",
+  "generated_at": "2026-10-11T21:58:11.294Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -1933,6 +1933,19 @@
       "last_pushed_at": "2026-10-11T20:55:39.747Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:545": {
+      "kind": "problem",
+      "id": "545",
+      "title": "Compare Update Strategies in Policy Evaluation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/545",
+      "path": "problems/0545-compare-update-strategies-in-policy-evaluation",
+      "first_solved_at": "2026-10-11T21:58:10.351Z",
+      "last_pushed_at": "2026-10-11T21:58:10.351Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }

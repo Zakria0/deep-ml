@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**151** solved · 127 problems · 9 labs · 15 math
+**152** solved · 128 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-09-19 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-10-09 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-20 | [solution](problems/0331-check-linear-independence-of-vectors) |
+| [Compare Update Strategies in Policy Evaluation](https://www.deep-ml.com/problems/545) | easy | 2026-10-11 | [solution](problems/0545-compare-update-strategies-in-policy-evaluation) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-21 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-10-09 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-16 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
