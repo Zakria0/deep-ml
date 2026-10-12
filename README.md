@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**157** solved · 133 problems · 9 labs · 15 math
+**158** solved · 134 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -143,6 +143,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-23 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-10-04 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-09-25 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
+| [Policy Iteration on Jack's Car Rental](https://www.deep-ml.com/problems/546) | hard | 2026-10-12 | [solution](problems/0546-policy-iteration-on-jack-s-car-rental) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-20 | [solution](problems/0201-qr-decomposition) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-09-20 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
