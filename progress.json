@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:57:29.178Z",
+  "generated_at": "2026-10-12T22:07:34.278Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -2046,6 +2046,17 @@
       "path": "math/0061-multi-armed-bandits-regret-and-ucb",
       "first_solved_at": "2026-10-12T21:57:28.150Z",
       "last_pushed_at": "2026-10-12T21:57:28.150Z"
+    },
+    "math:219": {
+      "kind": "math",
+      "id": "219",
+      "title": "Gradient Bandits as Stochastic Gradient Ascent",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/219",
+      "path": "math/0219-gradient-bandits-as-stochastic-gradient-ascent",
+      "first_solved_at": "2026-10-12T22:07:33.449Z",
+      "last_pushed_at": "2026-10-12T22:07:33.449Z"
     }
   }
 }

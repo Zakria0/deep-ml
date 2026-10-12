@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**160** solved · 134 problems · 9 labs · 17 math
+**161** solved · 134 problems · 9 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -172,6 +172,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-10-05 | [solution](math/0051-bradley-terry-preference-model) |
 | [Coefficient Standard Errors, t-Statistics, and p-Values](https://www.deep-ml.com/math-problems/75) | medium | 2026-10-04 | [solution](math/0075-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Confidence Intervals vs Prediction Intervals](https://www.deep-ml.com/math-problems/77) | medium | 2026-10-04 | [solution](math/0077-confidence-intervals-vs-prediction-intervals) |
+| [Gradient Bandits as Stochastic Gradient Ascent](https://www.deep-ml.com/math-problems/219) | medium | 2026-10-12 | [solution](math/0219-gradient-bandits-as-stochastic-gradient-ascent) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-10-02 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-19 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [RSE, $R^2$, and the F-Statistic for Overall Significance](https://www.deep-ml.com/math-problems/76) | medium | 2026-10-04 | [solution](math/0076-rse-r-2-and-the-f-statistic-for-overall-significance) |
