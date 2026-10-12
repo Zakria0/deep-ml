@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:35:08.309Z",
+  "generated_at": "2026-10-12T21:46:24.203Z",
   "items": {
     "math:43": {
       "kind": "math",
@@ -2024,6 +2024,17 @@
       "last_pushed_at": "2026-10-12T21:35:07.378Z",
       "language": "python",
       "lines": 101
+    },
+    "math:218": {
+      "kind": "math",
+      "id": "218",
+      "title": "Sample Averages vs Constant Step Size: Recency Weighting",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/218",
+      "path": "math/0218-sample-averages-vs-constant-step-size-recency-weighting",
+      "first_solved_at": "2026-10-12T21:46:23.611Z",
+      "last_pushed_at": "2026-10-12T21:46:23.611Z"
     }
   }
 }
